@@ -4,18 +4,6 @@
 
    This document explains how to set up and manage deep linking in a React Native CLI project. Deep linking allows your app to respond to URLs like `tazakka://product?id=123` and navigate to specific screens.
 
-   ## Table of Contents
-
-   1. [What is Deep Linking?](#what-is-deep-linking)
-   2. [Why Use Deep Linking?](#why-use-deep-linking)
-   3. [Setup for Deep Linking](#setup-for-deep-linking)
-   - [Installing Dependencies](#installing-dependencies)
-   - [Navigation Configuration](#navigation-configuration)
-   - [Platform-Specific Configuration](#platform-specific-configuration)
-   4. [Handling Query Parameters](#handling-query-parameters)
-   5. [Testing Deep Linking](#testing-deep-linking)
-   6. [Conclusion](#conclusion)
-
    ---
 
    ## What is Deep Linking?
